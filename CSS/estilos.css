@@ -3,14 +3,14 @@ body{
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    color: black;
+    color: red;
 }
 
 #container{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid wheat;
+    border: 1px solid black;
     margin: 0 auto;
 }
 
